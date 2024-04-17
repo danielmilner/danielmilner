@@ -2,7 +2,7 @@
 
 I'm Daniel, the Co-Founder and Lead Developer at [FireTree Design, LLC](https://firetreedesign.com/), and Systems Administrator at [Scientific Cutting Tools, Inc](https://sct-usa.com/).
 
-It's been roughly 25 years since I built my first website and I've been working in the IT field for over 20 years. I write WordPress plugins and love working with JavaScript.
+I built my first website in 1998 and I've been working in the IT field for over 25 years. I write WordPress plugins and love working with JavaScript.
 
 You can find me on the web 🌎:
 * My personal website, [danielmilner.com](https://danielmilner.com/)
